@@ -1,10 +1,10 @@
 # LinkedIn About
 
-I am a Senior SAP IBP Consultant with 8+ years of experience leading end-to-end supply chain planning and manufacturing transformations across automotive, medtech, and food industries in Europe.
+I am a Senior SAP IBP Consultant with 8+ years of experience as a workstream lead and consultant on supply chain planning and manufacturing transformations across automotive, medtech, and food industries in Europe.
 
 My core focus is SAP IBP S&OP, demand and supply planning, and the integration of planning with SAP S/4HANA PP and logistics. I have designed and owned CI-DS integrations between SAP IBP and S/4HANA, covering master and transactional data flows across multi-plant landscapes, and supporting delta planning data exchange.
 
-On the manufacturing side, I bring a strong SAP PP background, having configured planning and logistics processes for automotive and discrete manufacturing rollouts. In regulated environments, I have directed Management of Change (MOC) and Engineering Change Management (ECM) workstreams, designing approval workflows aligned with FDA audit readiness and CAPA closure.
+On the manufacturing side, I bring a strong SAP PP background, having configured planning and logistics processes for automotive and discrete manufacturing rollouts. In a regulated medtech environment, I led the Management of Change (MOC) and Engineering Change Management (ECM) workstream, designing approval workflows aligned with FDA audit readiness and CAPA closure.
 
 Beyond project delivery, I have led SAP Academy programmes as both PP trainer and overall programme lead, training and coaching over 90 consultants across Greece, Germany, and Brazil. I enjoy turning complex SAP topics into clear, practical content for both consultants and business stakeholders.
 
