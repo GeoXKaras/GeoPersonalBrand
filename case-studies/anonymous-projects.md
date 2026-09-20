@@ -2,6 +2,8 @@
 
 ## Case Study 1 – Multi-country food manufacturer (SAP IBP & S/4HANA)
 
+Note: one example from several SAP IBP rollouts.
+
 Context:
 - Multi-country rollout in the food industry
 - 5 plants across Germany, Austria, Switzerland, and the Czech Republic
@@ -20,7 +22,7 @@ Outcomes:
 Context:
 - Medtech client with strong audit and CAPA requirements
 Scope:
-- Management of Change (MOC) and Engineering Change Management (ECM) workflows
+- Management of Change (MOC) and Engineering Change Management (ECM) workflow
 Role:
 - Workstream lead for MOC/ECM design
 Outcomes:
