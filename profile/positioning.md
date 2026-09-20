@@ -2,13 +2,13 @@
 
 ## One-line positioning
 
-Senior SAP IBP and manufacturing planning consultant, helping European manufacturers connect SAP IBP, S/4HANA PP, and Digital Manufacturing into a practical, compliant planning-to-execution process.
+Senior SAP IBP and manufacturing planning consultant, helping European manufacturers connect SAP IBP and S/4HANA PP into a practical, compliant planning-to-execution process, with working process knowledge of SAP Digital Manufacturing to bridge planning and shop-floor discussions.
 
 ## Core focus
 
 - SAP IBP: S&OP, demand planning, supply planning, and related inventory concepts
 - SAP S/4HANA: PP, planning and logistics processes, automotive and discrete manufacturing
-- SAP Digital Manufacturing: process understanding to bridge planning and shop-floor discussions
+- SAP Digital Manufacturing: working process knowledge, used to bridge planning and shop-floor discussions
 - Management of Change and Engineering Change Management: workflows aligned to audit and compliance needs
 
 ## Niche
@@ -30,5 +30,5 @@ I specialise in projects where:
 ## Availability and engagement model
 
 - Remote-first engagements across the EU, based in Greece
-- Contract roles of 3–6+ months with minimal travel
+- Contract roles of 6+ months with minimal travel
 - Daily rate positioned in the mid–senior freelance band, aligned with project scope and responsibility
